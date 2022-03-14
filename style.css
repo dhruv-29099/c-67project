@@ -7,9 +7,7 @@ body
 {
     background-color: red;
 }
-#app{
-    background-color: aliceblue;
-    }
+
 #games{
 background-color: yellow;
 }
@@ -19,6 +17,10 @@ margin-top: 35px;
 }
 p{
 font-weight: bold;
+}
+.carousel-inner p{
+margin-top:15px;
+font-size:20px;
 }
 
 
